@@ -1,3 +1,5 @@
+package main;
+
 public class DRoot {
     public static int getCountsOfDigits(int num){
         int count = (num == 0) ? 1 : 0;
